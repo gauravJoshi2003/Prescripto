@@ -2,6 +2,11 @@
 
 Prescripto is a full-stack hospital management web application that connects patients, doctors, and administrators in a single platform. It allows users to browse doctors, book appointments, manage profiles, and handle doctor/admin operations through dedicated dashboards.
 
+## 🌐 Live Demo
+🔗 patient dashboard : https://prescripto-frontend-nine-alpha.vercel.app/
+🔗 admin dashboard   :   https://prescripto-1vef1u48r-gaurav252003.vercel.app/
+
+---
 ## Features
 
 - Patient-friendly frontend for browsing doctors and booking appointments
